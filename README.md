@@ -5,6 +5,7 @@
 [**RUN THE PROJECT ZERO TRACE SCAN NOW**](https://zorexeye.com/zerotrace/)
 
 ---
+![Project Zero Trace Dashboard](assets/screenshot-project-zero-trace.png)
 
 ## 🕵️ Are You Exposed?
 Your digital identity is a target. Every day, thousands of accounts are compromised in silent data breaches. **Project Zero Trace** is designed to reveal what hackers already know about you. 
