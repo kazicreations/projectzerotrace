@@ -31,6 +31,7 @@ Don't wait for a login notification from a stranger. Use **Project Zero Trace** 
 1.  **Enter your data:** Put your email or username into the **Project Zero Trace** interface.
 2.  **Scan billions of records:** Our high-speed engine searches through historical and live data breaches instantly.
 3.  **Identify the Leak:** **Project Zero Trace** shows you if you've been hacked, allowing you to change your passwords before it's too late.
+
 ![Project Zero Trace](assets/ZeroTrace3.webp)
 ---
 
@@ -39,6 +40,7 @@ Built for professionals, designed for you. **Project Zero Trace** uses a high-en
 *   **Ultra-Fast Scanning:** Powered by an optimized SQLite and PHP backend.
 *   **Premium Security UI:** A professional, dark-mode glassmorphism interface.
 *   **Massive Intelligence:** **Project Zero Trace** is built on a custom algorithm designed to find what others miss.
+
 ![Project Zero Trace](assets/ZeroTrace4.webp)
 ---
 
