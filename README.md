@@ -21,7 +21,8 @@ Don't wait for a login notification from a stranger. Use **Project Zero Trace** 
 *   **Instant Exposure Detection:** **Project Zero Trace** scans billions of compromised credentials in the blink of an eye.
 *   **Stop the Threat:** Find out exactly which of your passwords or emails are floating around the internet before they are used against you.
 *   **The Power of Seconds:** While other tools take minutes, **Project Zero Trace** delivers results in seconds.
-
+*   
+![Project Zero Trace](assets/ZeroTrace2.webp)
 ---
 
 ## 🔍 How Project Zero Trace Protects You
@@ -30,7 +31,7 @@ Don't wait for a login notification from a stranger. Use **Project Zero Trace** 
 1.  **Enter your data:** Put your email or username into the **Project Zero Trace** interface.
 2.  **Scan billions of records:** Our high-speed engine searches through historical and live data breaches instantly.
 3.  **Identify the Leak:** **Project Zero Trace** shows you if you've been hacked, allowing you to change your passwords before it's too late.
-
+![Project Zero Trace](assets/ZeroTrace3.webp)
 ---
 
 ## 🛠️ The Tech Behind Project Zero Trace
@@ -38,7 +39,7 @@ Built for professionals, designed for you. **Project Zero Trace** uses a high-en
 *   **Ultra-Fast Scanning:** Powered by an optimized SQLite and PHP backend.
 *   **Premium Security UI:** A professional, dark-mode glassmorphism interface.
 *   **Massive Intelligence:** **Project Zero Trace** is built on a custom algorithm designed to find what others miss.
-
+![Project Zero Trace](assets/ZeroTrace4.webp)
 ---
 
 ## 🏷️ Search Engine Optimization (SEO) Metadata
