@@ -55,7 +55,7 @@ Built for professionals, designed for you. **Project Zero Trace** uses a high-en
 ---
 
 **Official Link:** [https://zorexeye.com/zerotrace/](https://zorexeye.com/zerotrace/)
-**Developer:** [Kazi Firoz Asif](https://zorexeye.com/)
+**Developer:** [Kazi Firoz Asif](https://kazifiroz.pages.dev/)
 **Brand:** Project Zero Trace by ZorexEye
 
 <!-- Project Zero Trace - The most powerful way to see if you have been hacked. Scan billions of records instantly with Project Zero Trace. -->
